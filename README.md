@@ -1,4 +1,4 @@
-# portfolio-R-regression-carprice
+# Portfolio rpoject: Used car price prediction by multiple linear regression with R
 
 It is best to open the notebook on Kaggle: https://www.kaggle.com/jenniewong/used-car-price-prediction-for-all-brands-by-mlr
 
